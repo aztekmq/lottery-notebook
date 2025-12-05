@@ -1,4 +1,4 @@
-## Self-contained Lottery Notebook:
+## Self-Contained Lottery Notebook:
 
 1. Lets you plug in live jackpots and **see EV curves** for Powerball & Mega Millions.
 2. Adds a **MegaMillionsGame** class with the built-in 2×–10× multiplier distribution, using the official new prize matrix and probabilities. ([Maryland Lottery][1])
