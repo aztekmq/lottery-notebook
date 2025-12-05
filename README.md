@@ -446,6 +446,10 @@ From the same folder:
 
 ```bash
 streamlit run app.py
+
+or from within WSL
+
+streamlit run app.py --server.address=0.0.0.0 --server.port=8501
 ```
 
 From your browser, open to http://localhost:8501` with:
